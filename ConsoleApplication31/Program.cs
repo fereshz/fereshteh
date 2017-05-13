@@ -10,6 +10,8 @@ namespace ConsoleApplication31
     {
         static void Main(string[] args)
         {
+            int x = 4;
+
         }
     }
 }
